@@ -1,0 +1,22 @@
+{
+  "name": "mysql-query",
+  "version": "1.0.0",
+  "description": "Make mysql database curd opreation in just one line of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animeshk123/mysql_query.git"
+  },
+  "author": "Animesh kumbhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Animeshk123/mysql_query/issues"
+  },
+  "homepage": "https://github.com/Animeshk123/mysql_query#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
